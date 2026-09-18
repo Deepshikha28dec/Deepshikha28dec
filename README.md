@@ -14,8 +14,6 @@ Cooperative task scheduler in C for the ATmega32U4 using a 1 ms timer base, peri
 
 ## Technical Focus
 
-## Technical Focus
-
 `RISC-V` `Verilog RTL` `FPGA` `Embedded C` `C++` `Python`  
 `Computer Architecture` `Real-Time Systems` `Low-Power Computing`  
 `Hardware-Software Co-Design`
